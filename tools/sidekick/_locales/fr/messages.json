@@ -1,0 +1,228 @@
+{
+  "title": {
+    "message": "Franklin Sidekick"
+  },
+  "description": {
+    "message": "Le Franklin Sidekick permet aux auteurs de simplement visualiser et publier leur contenu."
+  },
+  "description_shortcut": {
+    "message": "Afficher/cacher le Sidekick"
+  },
+  "homepage": {
+    "message": "https://www.hlx.live/tools/sidekick/"
+  },
+  "docs": {
+    "message": "https://www.hlx.live/docs/sidekick"
+  },
+  "save": {
+    "message": "Sauvegarger"
+  },
+  "cancel": {
+    "message": "Annuler"
+  },
+  "add": {
+    "message": "Ajouter"
+  },
+  "config_toggle_menu": {
+    "message": "Afficher/cacher le menu"
+  },
+  "config_projects": {
+    "message": "Projets"
+  },
+  "config_project_empty": {
+    "message": "Vous n'avez pas encore ajouté de projet."
+  },
+  "config_project_exists": {
+    "message": "Une configuration pour ce projet existe déjà."
+  },
+  "config_project_host": {
+    "message": "Production"
+  },
+  "config_project_innerhost": {
+    "message": "Aperçu"
+  },
+  "config_project_mountpoints": {
+    "message": "Contenu"
+  },
+  "config_project_pick": {
+    "message": "Choisir un projet"
+  },
+  "config_project_pick_more": {
+    "message": "Plus..."
+  },
+  "config_project_add": {
+    "message": "Ajouter ce projet"
+  },
+  "config_project_remove": {
+    "message": "Supprimer ce projet"
+  },
+  "config_project_enable": {
+    "message": "Activer ce projet"
+  },
+  "config_project_disable": {
+    "message": "Désactivater ce projet"
+  },
+  "config_shareurl_title": {
+    "message": "Ajouter via une URL de partage"
+  },
+  "config_shareurl_description": {
+    "message": "Demander à quelqu'un de partager une configuration de son Sidekick: il lui suffit de cliquer sur le bouton partage du côté droit du Sidekick."
+  },
+  "config_shareurl_placeholder": {
+    "message": "URL de partage: https://www.hlx.live/sidekick..."
+  }, 
+  "config_shareurl_share_title": {
+    "message": "Configuration du Sidekick pour $1"
+  },
+  "config_shareurl_copied": {
+    "message": "L'URL de partage pour $1 a été copiée dans le presse-papiers"
+  },
+  "config_manual_title": {
+    "message": "Ajouter manuellement"
+  },
+  "config_manual_giturl_placeholder": {
+    "message": "URL du code dans GitHub: https://github.com/..."
+  },
+  "config_manual_host_placeholder": {
+    "message": "Nom de l'hôte de production (facultatif)"
+  },
+  "config_manual_mountpoints_placeholder": {
+    "message": "URL du contenu: https://..."
+  },
+  "config_manual_project_placeholder": {
+    "message": "Nom du projet (facultatif)"
+  },
+  "config_manual_devMode": {
+    "message": "Tester configuration locale du projet"
+  },
+  "config_add_success": {
+    "message": "Le projet a été ajouté au Sidekick"
+  },
+  "config_add_no_mountpoint": {
+    "message": "Le projet a été ajouté au Sidekick, mais ...\n\nLe contenu n'a pas pu être récupéré, vous ne pourrez pas utilisé le Sidekick en mode édition pour le moment. Pour l'ajouter manuellement, cliquez sur le bouton Editer dans la configuration du projet."
+  },
+  "config_share": {
+    "message": "Partager"
+  },
+  "config_edit": {
+    "message": "Editer"
+  },
+  "config_delete": {
+    "message": "Supprimer"
+  },
+  "config_delete_confirm": {
+    "message": "Voulez-vous vraiment supprimer ce projet ?"
+  },
+  "config_invalid_shareurl": {
+    "message": "URL de partage incorrecte"
+  },
+  "config_invalid_giturl": {
+    "message": "URL du code dans GitHub incorrecte"
+  },
+  "config_invalid_import": {
+    "message": "Fichier à importer invalide"
+  },
+  "config_invalid_export": {
+    "message": "Vous n'avez aucune configuration à exporter"
+  },
+  "config_backup": {
+    "message": "Sauvegarder"
+  },
+  "config_import": {
+    "message": "Importer une configuration"
+  },
+  "config_import_description": {
+    "message": "Importer une configuration depuis votre ordinateur. Vérifier d'abord que vous avez une sauvegarde de votre configuration actuelle !"
+  },
+  "config_import_confirm": {
+    "message": "Voulez-vous vraiment importer cette configuration et remplacer votre configuration actuelle ?"
+  },
+  "config_import_success": {
+    "message": "La configuration a été importée"
+  },
+  "config_import_failure": {
+    "message": "Impossible d'importer la configuration"
+  },
+  "config_export": {
+    "message": "Exporter la configuration"
+  },
+  "config_export_description": {
+    "message": "Sauvegarder la configuration actuelle sur votre ordinateur."
+  },
+  "config_reset": {
+    "message": "Reset"
+  },
+  "config_delete_all": {
+    "message": "Supprimer toutes les configurations"
+  },
+  "config_delete_all_description": {
+    "message": "Attention: cette action est irréversible !"
+  },
+  "config_delete_all_confirm": {
+    "message": "Voulez-vous vraiment supprimer toutes les configurations ?"
+  },
+  "config_unsupported_legacy": {
+    "message": "Ce site n'est plus supporté"
+  },
+  "config_picker_button_title": {
+    "message": "Appuyer sur $1 pour choisir $2"
+  },
+  "extensions": {
+    "message": "Extensions"
+  },
+  "help": {
+    "message": "Aide"
+  },
+  "advanced": {
+    "message": "Avancées",
+    "description": "Configurations avancées."
+  },
+  "standard": {
+    "message": "Standard",
+    "description": "Configurations standards."
+  },
+  "config_development": {
+    "message": "Développement"
+  },
+  "caution_side_effects": {
+    "message": "Attention: effets indésirables!"
+  },
+  "admin_version": {
+    "message": "Utiliser une version spécifique de l'API Franklin Admin"
+  },
+  "admin_version_placeholder": {
+    "message": "Version de l'Admin: x.y.z"
+  },
+  "config_ux": {
+    "message": "Expérience utilisateur"
+  },
+  "push_down_content": {
+    "message": "Pousser le contenu de la page vers le bas plutôt que de passer par dessus"
+  },
+  "push_down_content_description": {
+    "message": "Note: En fonction de la structure du site, cela peut demander une configuration spécifique au projet."
+  },
+  "help_opt_out": {
+    "message": "Ne pas montrer l'aide"
+  },
+  "help_opt_out_alert": {
+    "message": "Aide désactivée. Vous pouvez la réactiver dans Options > Expérience utilisateur."
+  },
+  "help_user_status": {
+    "message": "Sujets d'aide disponibles"
+  },
+  "help_user_status_check_all": {
+    "message": "Sélectionner tous",
+    "description": "Sélectionner tous les sujets d'aide"
+  },
+  "help_user_status_uncheck_all": {
+    "message": "Annuler tous",
+    "description": "Désélectionner tous les sujets d'aide"
+  },
+  "help_user_status_description": {
+    "message": "Les sujets sélectionnés ne seront plus affichés. Décochez la case à côté d'un sujet que vous souhaitez revoir."
+  },
+  "open_view_doc_source": {
+    "message": "Voir le document source"
+  }
+}
